@@ -1,0 +1,32 @@
+---
+layout: layouts/with-aside.njk
+title: Blog
+menu: blog
+eleventyExcludeFromCollections: true
+---
+<div class="blog">
+{% for post in collections.all | reverse%}
+
+{% include "partials/blog.njk" %}
+
+{% endfor %}
+</div>
+
+<ul class="pagination">
+  <li class="pagination__item">
+    <a class="pagination__link" href="#">&lt;</a>
+  </li>
+  <li class="pagination__item">
+    <a class="pagination__link" href="#">1</a>
+  </li>
+  <li class="pagination__item">
+    <a class="pagination__link active" href="#">1</a>
+  </li>
+  <li class="pagination__item">
+    <a class="pagination__link" href="#">1</a>
+  </li>
+  <li class="pagination__item">
+    <a class="pagination__link" href="#">&gt;</a>
+  </li>
+</ul>
+

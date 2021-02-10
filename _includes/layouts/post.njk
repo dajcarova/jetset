@@ -1,0 +1,78 @@
+{% include "partials/page-top.njk" %}
+
+{% include "partials/header.njk" %}
+<div class="container">
+  <div class="aside-wrapper">
+    <div class="main-content">
+
+
+      <article class="post">
+        <div class="post__header">
+          
+          <div class="date">
+            <svg class="date__icon">
+              <use xlink:href="#calendar">
+              </use>
+            </svg>
+            <p>{{dat}}</p>
+          </div>
+      
+          <h2 class="post__title">{{title}}</h2>
+      
+          <img src="{{featured}}" alt="{{title}}" class="post__featured">
+      
+        </div>
+        <div class="post__content">
+          
+          <div class="post__text">
+    {{content | safe}}
+
+    {% include "partials/postcard.njk" %}
+  </div><!--post text-->
+    
+
+    
+    
+</div><!--post content-->
+<div class="post__footer">
+  <div class="post__t">
+    <p>Tagged in </p>
+    <ul class="post__tags">
+
+      {% for tag in tags %}
+
+      <li class="post__tag-item">
+        <a class="post__tag-link" href="#">{{tag}}</a>
+      </li>
+
+      {% endfor %}
+      
+    </ul>
+  </div><!--post__t-->
+  
+  
+  <div class="post__nav">
+    <div class="post__nav-left">
+      {% set previousPost = collections.all | getPreviousCollectionItem(page) %}
+
+
+      <a href="{{previousPost.url}}">Previous: <br>{{previousPost.data.title}}</a>
+    </div>
+
+
+    <div class="post__nav-right">
+
+      {% set nextPost = collections.all | getNextCollectionItem(page) %}
+
+      <a calss="post__nav-right" href="{{nextPost.url}}">Next: <br>{{nextPost.data.title}}</a>
+    </div>
+    
+  </div>
+</div><!--post__footer-->
+
+</article>
+</div>
+{% include "partials/aside.njk" %}
+</div>
+</div>
+{% include "partials/page-bottom.njk" %}

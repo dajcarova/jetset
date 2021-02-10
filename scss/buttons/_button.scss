@@ -1,0 +1,19 @@
+.button{
+  height: 35px;
+  width: 160px;
+  margin: 0 auto;
+  display: block;
+  text-decoration: none;
+  background-color: $c-pearl-white;
+  border: 1px solid $c-pearl-white;
+  color: $c-text;
+  font-size: 1.2rem;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 35px;
+
+  transition: background-color .2s linear;
+}
+.button:hover{
+  background-color: transparent;
+}

@@ -1,0 +1,28 @@
+.about{
+  position: relative;
+  padding: 0 20px;
+}
+
+.about__currently-at{
+  position: absolute;
+  bottom: -10%;
+  left: 10%;
+  height: 20%;
+  img{
+    height: 100%;
+  }
+  p{
+    position: absolute;
+    bottom: 15%;
+    left: 55%;
+    text-transform: uppercase;
+  }
+}
+
+@media screen and (min-width: 640px){
+  .about__currently-at{
+    bottom: -20%;
+    height: 40%;
+ 
+  }
+}

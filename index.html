@@ -1,0 +1,89 @@
+---
+layout: layouts/homepage.njk
+title: Homepage
+menu: home
+eleventyExcludeFromCollections: true
+posttitle: about Maria
+postimg: /images/about/about-photo.png
+postcard: I am Maria. I come from a small town in Ukraine - Berezhany. I have always been fond of traveling and always wished to go abroad. What can I say, wishes come true! I am a former Emirates cabin crew. I have visited around 40 countries so far.
+---
+
+<section class="section-blog">
+  <div class="container">
+    <h2 class="section__title"><span class="emphasize">Featured </span> from the blog</h2>
+
+    <div class="blog">
+      {% for post in collections.featured %}
+      
+      {% include "partials/blog.njk" %}
+      
+      {% endfor %}
+      </div>
+
+  </div>
+</section>
+
+<section class="section-about">
+  <div class="container">
+    <div class="about">
+      {% include "partials/postcard.njk" %}
+
+      <div class="about__currently-at">
+        <img src="/images/decoration/Currently-Traveling.png" alt="" class="currently-at">
+        <p>Prague</p>
+      </div>
+    
+    </div>
+  </div>
+</section><!--about-->
+
+<section class="section-gallery">
+  <div class="slider">
+    {% for photo in photography %}
+    <div class="slider__item">
+      <img data-lazy="/images/photography/{{photo.file}}" alt="{{photo.title}}">
+    </div>
+    {% endfor %}
+  </div>
+  <a href="#" class="button">view photography</a>
+
+</section><!--gallery-->
+
+<section class="section-destinations">
+  <div class="container">
+    <h2 class="section__title">Discover by <span class="emphasize">Continent</span></h2>
+    <div class="map">
+      <img class="map__img" src="/images/map/map.png" alt="">
+      <div class="map__num map__na">1</div>
+      <div class="map__num map__sa">2</div>
+      <div class="map__num map__eu">17</div>
+      <div class="map__num map__afr">5</div>
+      <div class="map__num map__me">1</div>
+      <div class="map__num map__as">14</div>
+      <div class="map__num map__aus">2</div>
+    </div>
+    
+  </div>
+</section><!--destinations-->
+
+<section class="section-counter">
+  <div class="container">
+    <div class="counter">
+      <div class="counter__item">
+        <div class="counter__number">42</div>
+        <div class="counter__description">countries visited</div>
+      </div>
+      <div class="counter__item">
+        <div class="counter__number">68</div>
+        <div class="counter__description">cities discovered</div>
+      </div>
+      <div class="counter__item">
+        <div class="counter__number">192</div>
+        <div class="counter__description">take-offs and landings</div>
+      </div>
+    </div>
+  </div>
+</section><!--counter-->
+
+
+  

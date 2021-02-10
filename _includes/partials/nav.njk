@@ -1,0 +1,41 @@
+<ul class="nav__list">
+  <li class="nav__item {% if menu === 'home' %}nav__item--active{% endif%}">
+    <a class="nav__link" href="/">Home</a>
+  </li>
+  
+  <li class="nav__item {% if menu === 'blog' %}nav__item--active{% endif%}">
+    <a class="nav__link" href="/blog/">Blog</a>
+  </li>
+  <li class="nav__item {% if menu === 'destinations' %}nav__item--active{% endif%}">
+    <a class="nav__link nav__link--has-subnav" href="#">Destinations</a>
+    <ul class="subnav">
+      <li>
+        <a class="subnav__link" href="#">North America</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">South America</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">Europe</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">Asia</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">Middle East</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">Africa</a>
+      </li>
+      <li>
+        <a class="subnav__link" href="#">Australia</a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav__item {% if menu === 'photography' %}nav__item--active{% endif%}">
+    <a class="nav__link" href="#">Photography</a>
+  </li>
+  <!-- <li class="nav__item">
+    <a class="nav__link" href="#">Contact</a>
+  </li> -->
+</ul>

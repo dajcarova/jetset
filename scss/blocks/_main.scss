@@ -1,0 +1,14 @@
+.main{
+  padding-top: 134px;
+}
+
+@media screen and (min-width: 768px){
+  .main{
+    padding-top: 170px;
+  }
+}
+@media screen and (min-width: 1040px){
+  .main{
+    padding-top: 190px;
+  }
+}

@@ -1,0 +1,16 @@
+.date{
+  margin-bottom: 1rem;
+  color: $c-text-light;
+  display: flex;
+  align-items: center;
+
+  p{
+    padding-left: 10px;
+  }
+}
+
+.date__icon{
+  height: 18px;
+  width: 18px;
+  fill: $c-text-light;
+}

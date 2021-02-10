@@ -1,0 +1,30 @@
+.no-scroll{
+  overflow: hidden;
+}
+
+.emphasize{
+  font-family: $f-emphasis;
+  font-size: 4.2rem;
+  text-transform: none;
+}
+h2{
+  font-size: 1.8rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  line-height: 26px;
+  margin: 4rem 0;
+  text-align: center;
+}
+h2 > span.emphasize{
+  color: $c-secondary;
+}
+
+@media screen and (min-width: 768px){
+  .emphasize{
+    font-size: 6.2rem;
+  }
+  h2{
+    font-size: 2.1rem;
+  }
+}

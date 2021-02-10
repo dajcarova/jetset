@@ -1,0 +1,15 @@
+<a href="{{post.url}}" class="blog__item">
+  <div class="blog__photo">
+    <img class="blog__img" src="{{post.data.featured}}" alt="">
+  </div>
+  
+  <div class="blog__title">{{post.data.title}}</div>
+  {% include "partials/date.njk" %}
+  <div class="blog__text">
+    <p>
+      {{post.data.perex}}
+    </p>
+    <p class="blog__readmore">read more</p>
+  </div>
+  
+</a>

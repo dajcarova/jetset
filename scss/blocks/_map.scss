@@ -1,0 +1,54 @@
+.map{
+  max-width: 1040px;
+  margin: 0 auto;
+  position: relative;
+}
+.map__img{
+  width: 100%;
+}
+.map__num{
+  width: 25px;
+  height: 25px;
+  background-color: $c-secondary;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 1;
+  font-size: 12px;
+  color: $c-primery;
+  font-weight: 700;
+  border: 1px solid $c-primery;
+
+  position: absolute;
+  z-index: 10;
+  
+}
+.map__sa{
+  bottom: 20%;
+  left: 30%;
+}
+.map__na{
+  top: 16%;
+  left: 22%;
+}
+.map__eu{
+  top: 20%;
+  left: 53%;
+}
+.map__afr{
+  top: 47%;
+  left: 46%;
+}
+.map__me{
+  top: 47%;
+  left: 66%;
+}
+.map__as{
+  top: 35%;
+  right: 21%;
+}
+.map__aus{
+  bottom: 30%;
+  right: 17%;
+}

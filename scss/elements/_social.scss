@@ -1,0 +1,30 @@
+.social{
+  display: flex;
+}
+.social__item{
+  padding: 1.4rem;
+}
+.social__icon{
+  display: block;
+  height: 1.4rem;
+  width: 1.4rem;
+  fill: $c-text;
+
+  transition: fill .2s linear;
+
+  &:hover,
+  &:active,
+  &:focus{
+    fill: $c-secondary;
+  }
+}
+.footer .social__icon{
+  fill: $c-pearl-white;
+  transition: fill .2s linear;
+
+  &:hover,
+  &:active,
+  &:focus{
+    fill: $c-secondary;
+  }
+}

@@ -1,0 +1,53 @@
+<aside class="aside">
+  <div class="aside__item">
+    <div class="aside__title">On my bucket list</div>
+    <div class="aside__bucket-list">
+      <img class="aside__img" src="/images/aside/bucket list.jpg" alt="">
+    </div>
+  </div>
+  <div class="aside__item">
+    <div class="aside__title">Newest from the blog</div>
+    <div class="aside__blog">
+      {% for post in collections.all | reverse%}
+        {% if loop.index <=3 %}
+
+      <a href="{{post.url}}" class="aside__post">
+        <div class="aside__post-photo">
+          <img class="aside__post-img" src="{{post.data.featured}}" alt="">
+        </div>
+        <div class="aside__post-description">
+          <div class="aside__post-title">
+            {{post.data.title}}
+          </div>
+          <div class="aside__post-date">
+            
+            {% include "partials/date.njk" %}
+
+          </div>
+          
+        </div>
+      
+      </a>
+      <hr class="aside__post-line">
+
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  <div class="aside__item">
+    <div class="aside__title">Tags</div>
+    <div class="aside__tags">
+      <a href="#" class="button-tag">adventure</a>
+      <a href="#" class="button-tag">adrenaline</a>
+      <a href="#" class="button-tag">Christmas & New Year</a>
+      <a href="#" class="button-tag">city walk</a>
+      <a href="#" class="button-tag">favourite</a>
+      <a href="#" class="button-tag">food</a>
+      <a href="#" class="button-tag">honey</a>
+      <a href="#" class="button-tag">LO</a>
+      <a href="#" class="button-tag">relax</a>
+      <a href="#" class="button-tag">solo</a>
+      <a href="#" class="button-tag">with other crew</a>
+    </div>
+  </div>
+</aside>

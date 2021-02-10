@@ -1,0 +1,39 @@
+<header class="header">
+      <a href="/" class="header__title">
+        <h1 class="main-title">Ready &#183; 
+          <img class="title-img" src="/images/decoration/title.png" alt="">
+          &#183; Go!</h1>
+        </a>
+      
+      <div class="header__nav">
+        <div class="container">
+          <div class="header__inner">
+            <div class="header__left">
+              
+              <nav class="nav nav--social">
+                {% include "partials/nav.njk" %}
+              </nav>
+
+              <button class="burger active" id="menuToggle" type="button">
+                <span>Menu</span>
+              </button>
+
+              <nav class="nav--mobile" id="menu">
+                {% include "partials/nav.njk" %}
+              </nav>
+            </div>
+            <div class="header__right">
+              {% include "partials/social.njk" %}
+              <!-- <div class="header__search">
+                <form class="search" action="/" method="POST">
+                  <input class="search__input" type="text" placeholder="SEARCH SITE...">
+                </form>
+              </div> -->
+              
+            </div>
+          </div>
+        </div>
+        
+      </div>
+</header>
+<div class="main">
