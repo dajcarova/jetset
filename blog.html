@@ -5,7 +5,7 @@ menu: blog
 eleventyExcludeFromCollections: true
 ---
 <div class="blog">
-{% for post in collections.all | reverse %}
+{% for post in collections.all %}
 
 {% include "partials/blog.njk" %}
 
