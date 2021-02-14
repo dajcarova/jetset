@@ -16,9 +16,10 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "featuredimage", widget: "image" }
       - { label: "Post Title", name: "posttitle", widget: "string" }
       - { label: "Post Image", name: "postimg", widget: "image" }
       - { label: "Post Text", name: "postcard", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
