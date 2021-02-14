@@ -16,5 +16,15 @@ tags:
   - featured
   - LO
   - solo
+gallery:
+  - imgSrc: /images/uploads/1.jpg
+    imgTitle: Hyde Park
+    imgDesc: Hyde Park
+  - imgSrc: /images/uploads/2.jpg
+    imgTitle: Hyde Park
+    imgDesc: Hyde Park
+  - imgSrc: /images/uploads/3.jpg
+    imgTitle: Buckingham Palace
+    imgDesc: Buckingham Palace
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo f
