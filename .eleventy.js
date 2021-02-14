@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
 	// Copy `css/` to `_site/css/`
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy("admin");
 
   return {
     // possible template formats
