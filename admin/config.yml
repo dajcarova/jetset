@@ -24,10 +24,10 @@ collections:
       - {label: "Post Text", name: "postcard", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Gallery"
-            name: "gallery"
-            widget: "list"
-            optional: true
-            fields:
-              - {label: "Title", name: "imgTitle", widget: "string"}
-              - {label: "Gallery Image", name: "imgSrc", widget: "image"}
-              - {label: "Description", name: "imgDesc", widget: "string"}
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
