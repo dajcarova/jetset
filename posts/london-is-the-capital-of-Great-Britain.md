@@ -20,11 +20,14 @@ gallery:
   - imgSrc: /images/uploads/1.jpg
     imgTitle: Hyde Park
     imgDesc: Hyde Park
+    thumbnailSrc: /images/uploads/1-thumbnail.jpg
   - imgSrc: /images/uploads/2.jpg
     imgTitle: Hyde Park
     imgDesc: Hyde Park
+    thumbnailSrc: /images/uploads/2-thumbnail.jpg
   - imgSrc: /images/uploads/3.jpg
     imgTitle: Buckingham Palace
     imgDesc: Buckingham Palace
+    thumbnailSrc: /images/uploads/3-thumbnail.jpg
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo f
