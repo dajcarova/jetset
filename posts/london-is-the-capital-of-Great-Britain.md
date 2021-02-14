@@ -1,12 +1,13 @@
 ---
 layout: layouts/post.njk
 title: London is the capital of Great Britain
-featuredimage: /images/emirates/LO/1 LGW 22-23.10.16/featured.jpg
 description: London, Lorem ipsum dolor sit amet consectetur adipisicing elit.
 date: 2016-10-23
+featuredimage: /images/emirates/LO/1 LGW 22-23.10.16/featured.jpg
 posttitle: Greetings from London!
 postimg: /images/emirates/LO/1 LGW 22-23.10.16/postcard.png
-postcard: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed!
+postcard: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
+  explicabo harum est laboriosam, impedit sed!
 tags:
   - Europe
   - UK
@@ -16,5 +17,4 @@ tags:
   - LO
   - solo
 ---
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo fuga!
-
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo f
