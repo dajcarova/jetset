@@ -28,7 +28,11 @@
     {{content | safe}}
 
     <div>
-      <img src="{{imgSrc}}" alt="{{imgTitle}}">
+      {% for photo in gallery %}
+
+      <img src="{{photo.imgSrc}}" alt="{{photo.imgTitle}}">
+
+      {% endfor %}
     </div>
 
     
