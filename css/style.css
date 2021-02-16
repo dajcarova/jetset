@@ -1550,6 +1550,10 @@ h2 > span.emphasize {
   padding: 50px 0;
 }
 
+.main-content h2 {
+  margin-top: 0;
+}
+
 @media screen and (min-width: 1040px) {
   .aside-wrapper {
     display: -ms-grid;

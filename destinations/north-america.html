@@ -1,0 +1,15 @@
+---
+layout: layouts/with-aside.njk
+title: Blog
+menu: blog
+eleventyExcludeFromCollections: true
+---
+<h2>North America</h2>
+<div class="blog">
+
+{% for post in collections.NorthAmerica | reverse %}
+
+{% include "partials/blog.njk" %}
+
+{% endfor %}
+</div>
