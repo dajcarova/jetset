@@ -19,4 +19,6 @@ tags:
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis at minima corrupti natus dignissimos suscipit doloribus sint, amet repellendus error tempore sapiente libero veniam autem incidunt eos quibusdam, hic blanditiis!
 
-![Petronas Towers](/images/uploads/petronas-tower2-thumbnail.jpg "Petronas Towers")
+![Petronas Towers](/images/uploads/37-thumbnail.jpg "Petronas Towers")
+
+![Petronas Towers](/images/uploads/38-thumbnail.jpg "Petronas Towers")
