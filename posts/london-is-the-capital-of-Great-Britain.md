@@ -61,5 +61,22 @@ gallery:
     imgDesc: Westminster Bridge
     imgSrc: /images/uploads/11.jpg
     thumbnailSrc: /images/uploads/11-thumbnail.jpg
+gallery2:
+  - imgTitle: LGW Airport
+    imgSrc: /images/uploads/12.jpg
+    thumbnailSrc: /images/uploads/12-thumbnail.jpg
+    imgDesc: LGW Airport
+  - imgTitle: LGW Airport
+    imgSrc: /images/uploads/13.jpg
+    thumbnailSrc: /images/uploads/13-thumbnail.jpg
+    imgDesc: LGW Airport
+  - imgTitle: LGW Airport
+    imgSrc: /images/uploads/14.jpg
+    thumbnailSrc: /images/uploads/14-thumbnail.jpg
+    imgDesc: LGW Airport
+  - imgTitle: LGW Airport
+    imgSrc: /images/uploads/15.jpg
+    thumbnailSrc: /images/uploads/15-thumbnail.jpg
+    imgDesc: LGW Airport
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo f
