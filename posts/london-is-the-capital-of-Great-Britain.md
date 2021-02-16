@@ -78,5 +78,9 @@ gallery2:
     imgSrc: /images/uploads/15.jpg
     thumbnailSrc: /images/uploads/15-thumbnail.jpg
     imgDesc: LGW Airport
+gallery2title: My first flight!
+gallery2text: Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+  Veritatis sapiente deleniti ipsa fuga necessitatibus assumenda tempore dolorem
+  voluptates, rem quis odio adipisci ex qui in quas corporis amet ut officiis?
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem explicabo harum est laboriosam, impedit sed! Dolor laudantium voluptatibus architecto quidem, perferendis amet blanditiis explicabo eos, aspernatur fugit optio quo f
