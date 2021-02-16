@@ -59,12 +59,12 @@ gallery:
     thumbnailSrc: /images/uploads/46-thumbnail.jpg
     imgDesc: Temple Cave, Batu Caves
   - imgTitle: Hanuman statue near the Ramayana Cave
-    imgSrc: /images/uploads/47.jpg
-    thumbnailSrc: /images/uploads/47-thumbnail.jpg
-    imgDesc: Hanuman statue near the Ramayana Cave
-  - imgTitle: Hanuman statue near the Ramayana Cave
     imgSrc: /images/uploads/48.jpg
     thumbnailSrc: /images/uploads/48-thumbnail.jpg
+    imgDesc: Hanuman statue near the Ramayana Cave
+  - imgTitle: Hanuman statue near the Ramayana Cave
+    imgSrc: /images/uploads/47.jpg
+    thumbnailSrc: /images/uploads/47-thumbnail.jpg
     imgDesc: Hanuman statue near the Ramayana Cave
   - imgTitle: Batu Caves
     imgSrc: /images/uploads/49.jpg
