@@ -32,3 +32,12 @@ collections:
           - {label: "Gallery Image", name: "imgSrc", widget: "image"}
           - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
           - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}

@@ -60,6 +60,39 @@
     </div>
   </div>
 
+  
+<!-- Masonry gallery 2-->
+
+<div class="masonry-gallery">
+  <div class="grid">
+    
+    <div class="grid-col grid-col--1">
+      
+    </div>
+    <div class="grid-col grid-col--2">
+  
+    </div>
+    <div class="grid-col grid-col--3">
+  
+    </div>
+    <div class="grid-col grid-col--4">
+  
+    </div>
+      {% for photo in gallery2 %}
+
+      
+      <div class="grid-item">
+        <div class="gallery-item">
+          <p class="grid-text">{{photo.imgTitle}}</p>
+          <a data-lightbox="mygallery" data-title="{{photo.imgTitle}}" href="{{photo.imgSrc}}"><img class="grid-img" src="{{photo.thumbnailSrc}}"></a>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+
     
 
     {% include "partials/postcard.njk" %}
