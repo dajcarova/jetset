@@ -78,5 +78,47 @@ gallery:
     imgDesc: Statue of Krishna with a horse drawn chariot at the Ramayana Cave
     imgSrc: /images/uploads/51.jpg
     thumbnailSrc: /images/uploads/51-thumbnail.jpg
+gallery2title: Long-tail monkeys
+gallery2:
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/52.jpg
+    thumbnailSrc: /images/uploads/52-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/53.jpg
+    thumbnailSrc: /images/uploads/53-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgDesc: Long-tail monkeys
+    imgSrc: /images/uploads/54.jpg
+    thumbnailSrc: /images/uploads/54-thumbnail.jpg
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/55.jpg
+    thumbnailSrc: /images/uploads/55-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgDesc: Long-tail monkeys
+    imgSrc: /images/uploads/56.jpg
+    thumbnailSrc: /images/uploads/56-thumbnail.jpg
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/57.jpg
+    thumbnailSrc: /images/uploads/57-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/58.jpg
+    thumbnailSrc: /images/uploads/58-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/59.jpg
+    thumbnailSrc: /images/uploads/59-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/60.jpg
+    thumbnailSrc: /images/uploads/60-thumbnail.jpg
+    imgDesc: Long-tail monkeys
+  - imgTitle: Long-tail monkeys
+    imgSrc: /images/uploads/61.jpg
+    thumbnailSrc: /images/uploads/61-thumbnail.jpg
+    imgDesc: Long-tail monkeys
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis at minima corrupti natus dignissimos suscipit doloribus sint, amet repellendus error tempore sapiente libero veniam autem incidunt eos quibusdam, hic blanditiis!
