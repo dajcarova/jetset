@@ -70,12 +70,12 @@ gallery:
     thumbnailSrc: /images/uploads/28-thumbnail.jpg
   - imgTitle: Christ Church Cathedral
     imgDesc: Christ Church Cathedral
-    imgSrc: /images/uploads/29.jpg
-    thumbnailSrc: /images/uploads/29-thumbnail.jpg
-  - imgTitle: Christ Church Cathedral
-    imgDesc: Christ Church Cathedral
     imgSrc: /images/uploads/30.jpg
     thumbnailSrc: /images/uploads/30-thumbnail.jpg
+  - imgTitle: Christ Church Cathedral
+    imgDesc: Christ Church Cathedral
+    imgSrc: /images/uploads/29.jpg
+    thumbnailSrc: /images/uploads/29-thumbnail.jpg
   - imgTitle: Dublin Castle
     imgDesc: Dublin Castle
     imgSrc: /images/uploads/32.jpg
