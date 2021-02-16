@@ -23,6 +23,15 @@ collections:
       - {label: "Post Image", name: "postimg", widget: "image"}
       - {label: "Post Text", name: "postcard", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
       - label: "Gallery"
         name: "gallery"
         widget: "list"
@@ -36,6 +45,15 @@ collections:
       - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
       - label: "Gallery 2"
         name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
         widget: "list"
         optional: true
         fields:

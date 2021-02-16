@@ -27,6 +27,28 @@
           <div class="post__text">
     {{content | safe}}
 
+
+<!-- Simple gallery -->
+
+{% if simplegallery %}
+
+<div class="simple-gallery">
+  <div class="gallery">
+
+    {% for photo in simplegallery %}
+
+      
+        <div class="gallery-item">
+          <p class="grid-text">{{photo.imgTitle}}</p>
+          <a data-lightbox="mygallery" data-title="{{photo.imgTitle}}" href="{{photo.imgSrc}}"><img class="grid-img" src="{{photo.thumbnailSrc}}"></a>
+        </div>
+
+      {% endfor %}
+    
+  </div>
+</div>
+
+{% endif %}
    
 <!-- Masonry gallery -->
 
@@ -105,6 +127,28 @@
 
     {% endif %}
 
+
+<!-- Simple gallery -->
+
+{% if simplegallery2 %}
+
+<div class="simple-gallery">
+  <div class="gallery">
+
+    {% for photo in simplegallery2 %}
+
+      
+        <div class="gallery-item">
+          <p class="grid-text">{{photo.imgTitle}}</p>
+          <a data-lightbox="mygallery" data-title="{{photo.imgTitle}}" href="{{photo.imgSrc}}"><img class="grid-img" src="{{photo.thumbnailSrc}}"></a>
+        </div>
+
+      {% endfor %}
+    
+  </div>
+</div>
+
+{% endif %}
     {% include "partials/postcard.njk" %}
   </div><!--post text-->
     
