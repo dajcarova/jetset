@@ -54,7 +54,7 @@ gallery:
     imgSrc: /images/uploads/73.jpg
     thumbnailSrc: /images/uploads/73-thumbnail.jpg
 gallery2title: Manchester Cathedral
-gallery2text: Manchester Cathedral
+gallery2text: ""
 gallery2:
   - imgTitle: Manchester Cathedral
     imgDesc: Manchester Cathedral
