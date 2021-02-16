@@ -60,10 +60,17 @@
     </div>
   </div>
 
-{% if gallery2 %}
+{% if gallery2title %}
 
 <h2>{{gallery2title}}</h2>
+
+{% endif %}
+
+{% if gallery2text %}
 <p>{{gallery2text}}</p>
+{% endif %}
+
+{% if gallery2 %}
 <!-- Masonry gallery 2-->
 
 <div class="masonry-gallery">

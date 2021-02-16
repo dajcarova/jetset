@@ -32,6 +32,8 @@ collections:
           - {label: "Gallery Image", name: "imgSrc", widget: "image"}
           - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
           - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
       - label: "Gallery 2"
         name: "gallery2"
         widget: "list"
@@ -41,5 +43,3 @@ collections:
           - {label: "Gallery Image", name: "imgSrc", widget: "image"}
           - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
           - {label: "Description", name: "imgDesc", widget: "string"}
-      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true}
-      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true}
