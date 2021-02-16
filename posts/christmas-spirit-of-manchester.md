@@ -53,6 +53,33 @@ gallery:
     imgDesc: Shambles Square
     imgSrc: /images/uploads/73.jpg
     thumbnailSrc: /images/uploads/73-thumbnail.jpg
+gallery2title: Manchester Cathedral
+gallery2text: Manchester Cathedral
+gallery2:
+  - imgTitle: Manchester Cathedral
+    imgDesc: Manchester Cathedral
+    imgSrc: /images/uploads/74.jpg
+    thumbnailSrc: /images/uploads/74-thumbnail.jpg
+  - imgTitle: Manchester Cathedral
+    imgSrc: /images/uploads/75.jpg
+    thumbnailSrc: /images/uploads/75-thumbnail.jpg
+    imgDesc: Manchester Cathedral
+  - imgTitle: Manchester Cathedral
+    imgDesc: Manchester Cathedral
+    imgSrc: /images/uploads/76.jpg
+    thumbnailSrc: /images/uploads/76-thumbnail.jpg
+  - imgTitle: Manchester Cathedral
+    imgSrc: /images/uploads/77.jpg
+    thumbnailSrc: /images/uploads/77-thumbnail.jpg
+    imgDesc: Manchester Cathedral
+  - imgTitle: Manchester Cathedral
+    imgSrc: /images/uploads/78.jpg
+    thumbnailSrc: /images/uploads/78-thumbnail.jpg
+    imgDesc: Manchester Cathedral
+  - imgTitle: Manchester Cathedral
+    imgSrc: /images/uploads/79.jpg
+    thumbnailSrc: /images/uploads/79-thumbnail.jpg
+    imgDesc: Manchester Cathedral
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate vitae id quae non maiores sequi aut quasi est quam explicabo corrupti quaerat animi nisi, ducimus, sit optio ullam voluptatem excepturi.
