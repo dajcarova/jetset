@@ -120,5 +120,18 @@ gallery2:
     imgSrc: /images/uploads/61.jpg
     thumbnailSrc: /images/uploads/61-thumbnail.jpg
     imgDesc: Long-tail monkeys
+simplegallery2:
+  - imgTitle: View from my hotel room
+    imgSrc: /images/uploads/62.jpg
+    thumbnailSrc: /images/uploads/62-thumbnail.jpg
+    imgDesc: View from my hotel room
+  - imgTitle: Hotel room
+    imgDesc: Hotel room
+    imgSrc: /images/uploads/63.jpg
+    thumbnailSrc: /images/uploads/63-thumbnail.jpg
+  - imgTitle: Nasi Goreng
+    imgSrc: /images/uploads/64.jpg
+    thumbnailSrc: /images/uploads/64-thumbnail.jpg
+    imgDesc: Nasi Goreng
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis at minima corrupti natus dignissimos suscipit doloribus sint, amet repellendus error tempore sapiente libero veniam autem incidunt eos quibusdam, hic blanditiis!
