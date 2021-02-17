@@ -149,6 +149,11 @@ gallery2:
     imgSrc: /images/uploads/156.jpg
     thumbnailSrc: /images/uploads/156-thumbnail.jpg
     imgDesc: Yu Garden
+simplegallery2:
+  - imgTitle: Singaporean Katong Laksa
+    imgDesc: Singaporean Katong Laksa
+    imgSrc: /images/uploads/159.jpg
+    thumbnailSrc: /images/uploads/159-thumbnail.jpg
 ---
 <!--StartFragment-->
 
