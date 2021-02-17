@@ -149,11 +149,13 @@
 </div>
 
 {% endif %}
-    {% include "partials/postcard.njk" %}
-  </div><!--post text-->
-    
 
-    
+{% if posttitle %}
+
+    {% include "partials/postcard.njk" %}
+
+{% endif %}
+  </div><!--post text-->
     
 </div><!--post content-->
 <div class="post__footer">
