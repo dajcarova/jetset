@@ -1561,6 +1561,9 @@ h2 > span.emphasize {
     -ms-grid-columns: 1fr 285px;
         grid-template-columns: 1fr 285px;
   }
+  .main-content {
+    padding-right: 3rem;
+  }
 }
 
 .aside {
