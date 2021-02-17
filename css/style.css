@@ -1497,7 +1497,7 @@ h2 > span.emphasize {
   -ms-grid-columns: (minmax(280px, 1fr))[auto-fit];
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 20px;
-  padding: 0 2rem;
+  padding: 0 2rem 4rem;
 }
 
 .blog__item {
@@ -1509,6 +1509,7 @@ h2 > span.emphasize {
   padding: 20px;
   text-decoration: none;
   color: #73736f;
+  display: none;
 }
 
 .blog__item:hover {
@@ -1850,45 +1851,6 @@ h2 > span.emphasize {
   top: 0;
   left: 0;
   z-index: 1;
-}
-
-.pagination {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  margin-top: 8rem;
-}
-
-.pagination__item {
-  margin: 0 .5rem;
-}
-
-.pagination__link {
-  display: block;
-  width: 4rem;
-  height: 4rem;
-  font-size: 1.4rem;
-  color: #73736f;
-  text-align: center;
-  text-decoration: none;
-  border: 1px solid #eae0c8;
-  line-height: 4rem;
-  background-color: transparent;
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-          box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  -webkit-transition: background-color .2 linear;
-  transition: background-color .2 linear;
-}
-
-.pagination__link:hover {
-  background-color: #f1eada;
-}
-
-.pagination__link.active {
-  background-color: #eae0c8;
 }
 
 .postcard {

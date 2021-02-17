@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat( auto-fit, minmax(280px, 1fr) );
   gap: 20px;
-  padding: 0 2rem;
+  padding: 0 2rem 4rem;
   
 }
 
@@ -14,6 +14,7 @@
   padding: 20px;
   text-decoration: none;
   color: $c-text;
+  display: none;
 
   &:hover{
     box-shadow: 0 0 0 1px $c-pearl-white;
