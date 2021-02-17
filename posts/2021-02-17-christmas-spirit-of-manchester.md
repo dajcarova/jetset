@@ -42,6 +42,32 @@ gallery:
     imgSrc: /images/uploads/110.jpg
     thumbnailSrc: /images/uploads/110-thumbnail.jpg
     imgDesc: John Rylands Library
+gallery2title: Christmas Market
+gallery2:
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/111.jpg
+    thumbnailSrc: /images/uploads/111-thumbnail.jpg
+    imgDesc: Christmas Market
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/112.jpg
+    thumbnailSrc: /images/uploads/112-thumbnail.jpg
+    imgDesc: Christmas Market
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/113.jpg
+    thumbnailSrc: /images/uploads/113-thumbnail.jpg
+    imgDesc: Christmas Market
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/114.jpg
+    thumbnailSrc: /images/uploads/114-thumbnail.jpg
+    imgDesc: Christmas Market
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/115.jpg
+    thumbnailSrc: /images/uploads/115-thumbnail.jpg
+    imgDesc: Christmas Market
+  - imgTitle: Christmas Market
+    imgSrc: /images/uploads/116.jpg
+    thumbnailSrc: /images/uploads/116-thumbnail.jpg
+    imgDesc: Christmas Market
 ---
 <!--StartFragment-->
 
