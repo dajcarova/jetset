@@ -68,6 +68,11 @@ gallery2:
     imgSrc: /images/uploads/116.jpg
     thumbnailSrc: /images/uploads/116-thumbnail.jpg
     imgDesc: Christmas Market
+simplegallery2:
+  - imgTitle: Dinner
+    imgDesc: Dinner
+    imgSrc: /images/uploads/117.jpg
+    thumbnailSrc: /images/uploads/117-thumbnail.jpg
 ---
 <!--StartFragment-->
 
