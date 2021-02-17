@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Christmas Spirit of Manchester
+title: "Manchester: John Rylands Library and Christmass Market"
 description: Manchester Lorem ipsum dolor sit amet, consectetur adipiscing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date: 2016-12-05T23:00:00.000Z
