@@ -19,6 +19,20 @@ tags:
   - relax
   - food
   - LO
+gallery:
+  - imgTitle: Tuk-tuk ride
+    imgSrc: /images/uploads/118.jpg
+    thumbnailSrc: /images/uploads/118-thumbnail.jpg
+    imgDesc: Tuk-tuk ride
+  - imgTitle: Tuk-tuk ride
+    imgSrc: /images/uploads/119.jpg
+    thumbnailSrc: /images/uploads/119-thumbnail.jpg
+    imgDesc: Tuk-tuk ride
+  - imgTitle: Chao Phraya River
+    imgSrc: /images/uploads/120.jpg
+    thumbnailSrc: /images/uploads/120-thumbnail.jpg
+    imgDesc: Chao Phraya River
+gallery2title: Thai Massage
 ---
 <!--StartFragment-->
 
