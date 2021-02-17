@@ -82,10 +82,6 @@ gallery2:
     thumbnailSrc: /images/uploads/137-thumbnail.jpg
     imgDesc: Yu Garden
   - imgTitle: Yu Garden
-    imgSrc: /images/uploads/138.jpg
-    thumbnailSrc: /images/uploads/138-thumbnail.jpg
-    imgDesc: Yu Garden
-  - imgTitle: Yu Garden
     imgSrc: /images/uploads/139.jpg
     thumbnailSrc: /images/uploads/139-thumbnail.jpg
     imgDesc: Yu Garden
