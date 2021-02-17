@@ -53,8 +53,8 @@ gallery2:
     thumbnailSrc: /images/uploads/112-thumbnail.jpg
     imgDesc: Christmas Market
   - imgTitle: Christmas Market
-    imgSrc: /images/uploads/113.jpg
-    thumbnailSrc: /images/uploads/113-thumbnail.jpg
+    imgSrc: /images/uploads/116.jpg
+    thumbnailSrc: /images/uploads/116-thumbnail.jpg
     imgDesc: Christmas Market
   - imgTitle: Christmas Market
     imgSrc: /images/uploads/114.jpg
@@ -65,8 +65,8 @@ gallery2:
     thumbnailSrc: /images/uploads/115-thumbnail.jpg
     imgDesc: Christmas Market
   - imgTitle: Christmas Market
-    imgSrc: /images/uploads/116.jpg
-    thumbnailSrc: /images/uploads/116-thumbnail.jpg
+    imgSrc: /images/uploads/113.jpg
+    thumbnailSrc: /images/uploads/113-thumbnail.jpg
     imgDesc: Christmas Market
 simplegallery2:
   - imgTitle: Dinner
