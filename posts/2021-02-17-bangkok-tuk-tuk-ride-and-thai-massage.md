@@ -33,6 +33,24 @@ gallery:
     thumbnailSrc: /images/uploads/120-thumbnail.jpg
     imgDesc: Chao Phraya River
 gallery2title: Thai Massage
+gallery2:
+  - imgTitle: Thai Massage
+    imgSrc: /images/uploads/121.jpg
+    thumbnailSrc: /images/uploads/121-thumbnail.jpg
+    imgDesc: Thai Massage
+  - imgTitle: Thai Massage
+    imgSrc: /images/uploads/122.jpg
+    thumbnailSrc: /images/uploads/122-thumbnail.jpg
+    imgDesc: Thai Massage
+simplegallery2:
+  - imgTitle: Mango sticky rice
+    imgDesc: Mango sticky rice
+    imgSrc: /images/uploads/123.jpg
+    thumbnailSrc: /images/uploads/123-thumbnail.jpg
+  - imgTitle: Restaurant
+    imgDesc: Restaurant
+    imgSrc: /images/uploads/124.jpg
+    thumbnailSrc: /images/uploads/124-thumbnail.jpg
 ---
 <!--StartFragment-->
 
