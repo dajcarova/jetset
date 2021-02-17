@@ -12,7 +12,7 @@ tags:
   - Europe
   - UK
   - London
-  - city walk
+  - cityWalk
   - featured
   - LO
   - solo

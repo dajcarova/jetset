@@ -1,0 +1,15 @@
+---
+layout: layouts/with-aside.njk
+title: Blog
+menu: blog
+eleventyExcludeFromCollections: true
+---
+<h2>Adrenaline</h2>
+<div class="blog">
+
+{% for post in collections.adrenaline | reverse %}
+
+{% include "partials/blog.njk" %}
+
+{% endfor %}
+</div>

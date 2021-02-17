@@ -12,8 +12,8 @@ tags:
   - Europe
   - Ireland
   - Dublin
-  - city walk
-  - with other crew
+  - cityWalk
+  - withOtherCrew
   - LO
 gallery:
   - imgTitle: St Stephen’s Green

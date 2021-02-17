@@ -17,7 +17,7 @@ tags:
   - Asia
   - Malasia
   - KualaLumpur
-  - citywalk
+  - cityWalk
   - solo
   - LO
 simplegallery: []
