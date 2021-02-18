@@ -69,6 +69,16 @@ gallery:
     imgSrc: /images/uploads/199.jpg
     thumbnailSrc: /images/uploads/199-thumbnail.jpg
     imgDesc: St George’s Anglican Cathedral
+gallery2title: Kangaroos in the Perth CBD
+gallery2:
+  - imgTitle: Kangaroos in the Perth CBD, St Georges Terrace
+    imgDesc: Kangaroos in the Perth CBD, St Georges Terrace
+    imgSrc: /images/uploads/201.jpg
+    thumbnailSrc: /images/uploads/201-thumbnail.jpg
+  - imgTitle: Kangaroos in the Perth CBD, St Georges Terrace
+    imgSrc: /images/uploads/200.jpg
+    thumbnailSrc: /images/uploads/200-thumbnail.jpg
+    imgDesc: Kangaroos in the Perth CBD, St Georges Terrace
 ---
 <!--StartFragment-->
 
