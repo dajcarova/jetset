@@ -16,6 +16,59 @@ tags:
   - cityWalk
   - LO
   - withOtherCrew
+gallery:
+  - imgTitle: Kings Park, Kaarta Gar-up viewpoint
+    imgDesc: Kings Park, Kaarta Gar-up viewpoint
+    imgSrc: /images/uploads/187.jpg
+    thumbnailSrc: /images/uploads/187-thumbnail.jpg
+  - imgTitle: Kings Park
+    imgSrc: /images/uploads/188.jpg
+    thumbnailSrc: /images/uploads/188-thumbnail.jpg
+    imgDesc: Kings Park
+  - imgTitle: Kings Park
+    imgSrc: /images/uploads/189.jpg
+    thumbnailSrc: /images/uploads/189-thumbnail.jpg
+    imgDesc: Kings Park
+  - imgTitle: Kings Park
+    imgSrc: /images/uploads/190.jpg
+    thumbnailSrc: /images/uploads/190-thumbnail.jpg
+    imgDesc: Kings Park
+  - imgTitle: Pier Street
+    imgSrc: /images/uploads/191.jpg
+    thumbnailSrc: /images/uploads/191-thumbnail.jpg
+    imgDesc: Pier Street
+  - imgTitle: Perth Town Hall
+    imgDesc: Perth Town Hall
+    imgSrc: /images/uploads/192.jpg
+    thumbnailSrc: /images/uploads/192-thumbnail.jpg
+  - imgTitle: Hay Street
+    imgSrc: /images/uploads/193.jpg
+    thumbnailSrc: /images/uploads/193-thumbnail.jpg
+    imgDesc: Hay Street
+  - imgTitle: Hay Street
+    imgSrc: /images/uploads/194.jpg
+    thumbnailSrc: /images/uploads/194-thumbnail.jpg
+    imgDesc: Hay Street
+  - imgTitle: Wesley Church, at the corner of William Street and Hay Street
+    imgDesc: Wesley Church, at the corner of William Street and Hay Street
+    imgSrc: /images/uploads/195.jpg
+    thumbnailSrc: /images/uploads/195-thumbnail.jpg
+  - imgTitle: Murray Street
+    imgSrc: /images/uploads/196.jpg
+    thumbnailSrc: /images/uploads/196-thumbnail.jpg
+    imgDesc: Murray Street
+  - imgTitle: Murray Street
+    imgSrc: /images/uploads/197.jpg
+    thumbnailSrc: /images/uploads/197-thumbnail.jpg
+    imgDesc: Murray Street
+  - imgTitle: St George’s Anglican Cathedral
+    imgSrc: /images/uploads/198.jpg
+    thumbnailSrc: /images/uploads/198-thumbnail.jpg
+    imgDesc: St George’s Anglican Cathedral
+  - imgTitle: St George’s Anglican Cathedral
+    imgSrc: /images/uploads/199.jpg
+    thumbnailSrc: /images/uploads/199-thumbnail.jpg
+    imgDesc: St George’s Anglican Cathedral
 ---
 <!--StartFragment-->
 
