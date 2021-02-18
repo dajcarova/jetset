@@ -17,6 +17,34 @@ tags:
   - ChristmasAndNewYear
   - LO
   - withOtherCrew
+gallery:
+  - imgTitle: Flower Market
+    imgSrc: /images/uploads/160.jpg
+    thumbnailSrc: /images/uploads/160-thumbnail.jpg
+    imgDesc: Flower Market
+  - imgTitle: Flower Market
+    imgSrc: /images/uploads/161.jpg
+    thumbnailSrc: /images/uploads/161-thumbnail.jpg
+    imgDesc: Flower Market
+  - imgTitle: Flower Market
+    imgSrc: /images/uploads/162.jpg
+    thumbnailSrc: /images/uploads/162-thumbnail.jpg
+    imgDesc: Flower Market
+  - imgTitle: Flower Market
+    imgSrc: /images/uploads/163.jpg
+    thumbnailSrc: /images/uploads/163-thumbnail.jpg
+    imgDesc: Flower Market
+  - imgTitle: Flower Market
+    imgSrc: /images/uploads/165.jpg
+    thumbnailSrc: /images/uploads/165-thumbnail.jpg
+    imgDesc: Flower Market
+gallery2title: Merry Christmas!
+gallery2:
+  - imgTitle: Hotel Lobby
+    imgDesc: Hotel Lobby
+    imgSrc: /images/uploads/166-thumbnail.jpg
+    thumbnailSrc: /images/uploads/166-thumbnail.jpg
+simplegallery2: []
 ---
 <!--StartFragment-->
 
