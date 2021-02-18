@@ -42,7 +42,7 @@ gallery2title: Merry Christmas!
 gallery2:
   - imgTitle: Hotel Lobby
     imgDesc: Hotel Lobby
-    imgSrc: /images/uploads/166-thumbnail.jpg
+    imgSrc: /images/uploads/166.jpg
     thumbnailSrc: /images/uploads/166-thumbnail.jpg
 simplegallery2: []
 ---
