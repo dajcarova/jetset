@@ -79,6 +79,11 @@ gallery2:
     imgSrc: /images/uploads/200.jpg
     thumbnailSrc: /images/uploads/200-thumbnail.jpg
     imgDesc: Kangaroos in the Perth CBD, St Georges Terrace
+simplegallery2:
+  - imgTitle: Lunch in Korean restaurant
+    imgSrc: /images/uploads/202.jpg
+    thumbnailSrc: /images/uploads/202-thumbnail.jpg
+    imgDesc: Lunch in Korean restaurant
 ---
 <!--StartFragment-->
 
