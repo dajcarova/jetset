@@ -912,7 +912,7 @@ h2 > span.emphasize {
 }
 
 .hero__text {
-  margin-top: 10rem;
+  margin-top: 2rem;
 }
 
 .hero__title {
@@ -931,6 +931,9 @@ h2 > span.emphasize {
 @media screen and (min-width: 768px) {
   .hero__title {
     font-size: 2.5rem;
+  }
+  .hero__text {
+    margin-top: 10rem;
   }
 }
 

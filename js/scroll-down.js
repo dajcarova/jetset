@@ -1,8 +1,8 @@
 $(function(){
   let scrollUp = $("#scroll-up");
-
+  
   $(window).on("scroll load resize", function(){
-
+    
     if($(this).scrollTop() > 40){
       scrollUp.fadeIn();
     } else {
