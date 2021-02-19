@@ -2,6 +2,26 @@
   overflow: hidden;
 }
 
+.scroll-up {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  height: 3.4rem;
+  width: 3.4rem;
+  opacity: .7;
+  display: none;
+}
+
+.scroll-up--visible {
+  display: block;
+}
+
+.scroll-up__arow {
+  height: 100%;
+  width: 100%;
+  fill: #73736f;
+}
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0-modified | 20110126
    License: none (public domain)
@@ -1026,7 +1046,7 @@ h2 > span.emphasize {
   }
 }
 
-#scroll-down {
+.scroll-down {
   display: block;
   position: relative;
   text-align: center;
@@ -1054,7 +1074,7 @@ h2 > span.emphasize {
   transform: rotate(135deg);
 }
 
-#scroll-title {
+.scroll-title {
   display: block;
   text-transform: uppercase;
   color: #73736f;
@@ -1062,7 +1082,7 @@ h2 > span.emphasize {
   letter-spacing: .1em;
 }
 
-#scroll-down::before {
+.scroll-down::before {
   -webkit-animation: elasticus 1.2s cubic-bezier(1, 0, 0, 1) infinite;
   /* Safari 4+ */
   /* Fx 5+ */

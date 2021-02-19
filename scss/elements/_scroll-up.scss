@@ -1,0 +1,18 @@
+.scroll-up{
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  height: 3.4rem;
+  width: 3.4rem;
+  opacity: .7;
+  display: none;
+}
+.scroll-up--visible{
+  display: block;
+}
+
+.scroll-up__arow{
+  height: 100%;
+  width: 100%;
+  fill: #73736f;
+}
