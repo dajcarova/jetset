@@ -237,6 +237,18 @@ gallery2:
     imgSrc: /images/uploads/257.jpg
     thumbnailSrc: /images/uploads/257-thumbnail.jpg
     imgDesc: Gold Buddha statues near entrance
+  - imgTitle: Ordination Hall
+    imgSrc: /images/uploads/259.jpg
+    thumbnailSrc: /images/uploads/259-thumbnail.jpg
+    imgDesc: Ordination Hall
+  - imgTitle: A monk gives visitors a blessing inside Ordination Hall
+    imgSrc: /images/uploads/258.jpg
+    thumbnailSrc: /images/uploads/258-thumbnail.jpg
+    imgDesc: A monk gives visitors a blessing inside Ordination Hall
+  - imgTitle: Wat Arun
+    imgSrc: /images/uploads/261.jpg
+    thumbnailSrc: /images/uploads/261-thumbnail.jpg
+    imgDesc: Wat Arun
 ---
 <!--StartFragment-->
 
