@@ -4,7 +4,7 @@ title: One day, two temples. Bangkok
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date: 2017-01-12T23:00:00.000Z
-featuredimage: /images/uploads/266.jpg
+featuredimage: /images/uploads/264-featured.jpg
 tags:
   - Asia
   - Thailand
