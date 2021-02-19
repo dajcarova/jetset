@@ -1,15 +1,12 @@
 $(function(){
   let scrollUp = $("#scroll-up");
-  let viewportHeight = $(window).height();
-  let scrollPos = $(window).scrollTop();
 
   $(window).on("scroll load resize", function(){
-    scrollPos = $(this).scrollTop();
 
-    if(scrollPos > viewportHeight){
-      scrollUp.addClass("scroll-up--visible");
+    if($(this).scrollTop() > 40){
+      scrollUp.fadeIn();
     } else {
-      scrollUp.removeClass("scroll-up--visible");
+      scrollUp.fadeOut();
     }
   });
 
