@@ -23,16 +23,8 @@ simplegallery:
     thumbnailSrc: /images/uploads/204-thumbnail.jpg
     imgDesc: On my way to boat pier
   - imgTitle: On my way to boat pier
-    imgSrc: /images/uploads/206.jpg
-    thumbnailSrc: /images/uploads/206-thumbnail.jpg
-    imgDesc: On my way to boat pier
-  - imgTitle: On my way to boat pier
     imgSrc: /images/uploads/207.jpg
     thumbnailSrc: /images/uploads/207-thumbnail.jpg
-    imgDesc: On my way to boat pier
-  - imgTitle: On my way to boat pier
-    imgSrc: /images/uploads/205.jpg
-    thumbnailSrc: /images/uploads/205-thumbnail.jpg
     imgDesc: On my way to boat pier
   - imgTitle: On my way to boat pier
     imgSrc: /images/uploads/208.jpg
@@ -41,6 +33,10 @@ simplegallery:
   - imgTitle: On my way to boat pier
     imgSrc: /images/uploads/209.jpg
     thumbnailSrc: /images/uploads/209-thumbnail.jpg
+    imgDesc: On my way to boat pier
+  - imgTitle: On my way to boat pier
+    imgSrc: /images/uploads/206.jpg
+    thumbnailSrc: /images/uploads/206-thumbnail.jpg
     imgDesc: On my way to boat pier
 gallery:
   - imgTitle: Ferry across the Chao Phraya river
