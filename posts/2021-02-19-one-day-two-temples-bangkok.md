@@ -147,7 +147,52 @@ gallery:
     imgSrc: /images/uploads/236.jpg
     thumbnailSrc: /images/uploads/236-thumbnail.jpg
     imgDesc: Ferry across the Chao Phraya river
-gallery2title: ""
+gallery2title: Wat Arun - Temple of Down
+gallery2text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat. "
+gallery2:
+  - imgTitle: Golden statue Sitting Buddha
+    imgSrc: /images/uploads/237.jpg
+    thumbnailSrc: /images/uploads/237-thumbnail.jpg
+    imgDesc: Golden statue Sitting Buddha
+  - imgTitle: Golden Buddha statue
+    imgSrc: /images/uploads/238.jpg
+    thumbnailSrc: /images/uploads/238-thumbnail.jpg
+    imgDesc: Golden Buddha statue
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/239.jpg
+    thumbnailSrc: /images/uploads/239-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/240-thumbnail.jpg
+    thumbnailSrc: /images/uploads/240-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/241.jpg
+    thumbnailSrc: /images/uploads/241-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/242.jpg
+    thumbnailSrc: /images/uploads/242-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/243.jpg
+    thumbnailSrc: /images/uploads/243-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/244-thumbnail.jpg
+    thumbnailSrc: /images/uploads/244.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/245.jpg
+    thumbnailSrc: /images/uploads/245-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/246.jpg
+    thumbnailSrc: /images/uploads/246-thumbnail.jpg
+    imgDesc: Wat Arun Temple
 ---
 <!--StartFragment-->
 
