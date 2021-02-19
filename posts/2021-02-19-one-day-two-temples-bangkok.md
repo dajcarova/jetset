@@ -38,6 +38,7 @@ simplegallery:
     imgSrc: /images/uploads/206.jpg
     thumbnailSrc: /images/uploads/206-thumbnail.jpg
     imgDesc: On my way to boat pier
+gallerytitle: Chao Phraya river
 gallery:
   - imgTitle: Ferry across the Chao Phraya river
     imgSrc: /images/uploads/210.jpg
@@ -249,6 +250,52 @@ gallery2:
     imgSrc: /images/uploads/261.jpg
     thumbnailSrc: /images/uploads/261-thumbnail.jpg
     imgDesc: Wat Arun
+gallery3title: Wat Pho - the Temple of the Reclining Buddha
+gallery3text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat.
+gallery3:
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/263.jpg
+    thumbnailSrc: /images/uploads/263-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/262.jpg
+    thumbnailSrc: /images/uploads/262-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/264.jpg
+    thumbnailSrc: /images/uploads/264-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/265.jpg
+    thumbnailSrc: /images/uploads/265-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/266.jpg
+    thumbnailSrc: /images/uploads/266-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/267.jpg
+    thumbnailSrc: /images/uploads/267-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/268.jpg
+    thumbnailSrc: /images/uploads/268-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/269.jpg
+    thumbnailSrc: /images/uploads/269-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgDesc: Wat Pho Temple Complex
+    imgSrc: /images/uploads/270.jpg
+    thumbnailSrc: /images/uploads/270-thumbnail.jpg
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/271.jpg
+    thumbnailSrc: /images/uploads/271-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
 ---
 <!--StartFragment-->
 
