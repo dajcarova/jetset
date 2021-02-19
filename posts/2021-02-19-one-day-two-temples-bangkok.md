@@ -336,6 +336,22 @@ gallery3:
     imgSrc: /images/uploads/281.jpg
     thumbnailSrc: /images/uploads/281-thumbnail.jpg
     imgDesc: "Phra Si Sanphet Dayarn: Standing Buddha"
+  - imgTitle: "“rows of Buddhas”, Phra Rabeang section of the temple complex "
+    imgSrc: /images/uploads/282.jpg
+    thumbnailSrc: /images/uploads/282-thumbnail.jpg
+    imgDesc: "“rows of Buddhas”, Phra Rabeang section of the temple complex "
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/283.jpg
+    thumbnailSrc: /images/uploads/283-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/284.jpg
+    thumbnailSrc: /images/uploads/284-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/285.jpg
+    thumbnailSrc: /images/uploads/285-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
 ---
 <!--StartFragment-->
 
