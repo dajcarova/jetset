@@ -296,6 +296,46 @@ gallery3:
     imgSrc: /images/uploads/271.jpg
     thumbnailSrc: /images/uploads/271-thumbnail.jpg
     imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/272.jpg
+    thumbnailSrc: /images/uploads/272-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/273.jpg
+    thumbnailSrc: /images/uploads/273-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/274.jpg
+    thumbnailSrc: /images/uploads/274-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/275.jpg
+    thumbnailSrc: /images/uploads/275-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/276.jpg
+    thumbnailSrc: /images/uploads/276-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/277.jpg
+    thumbnailSrc: /images/uploads/277-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/278.jpg
+    thumbnailSrc: /images/uploads/278-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/279.jpg
+    thumbnailSrc: /images/uploads/279-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/280.jpg
+    thumbnailSrc: /images/uploads/280-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: "Phra Si Sanphet Dayarn: Standing Buddha"
+    imgSrc: /images/uploads/281.jpg
+    thumbnailSrc: /images/uploads/281-thumbnail.jpg
+    imgDesc: "Phra Si Sanphet Dayarn: Standing Buddha"
 ---
 <!--StartFragment-->
 
