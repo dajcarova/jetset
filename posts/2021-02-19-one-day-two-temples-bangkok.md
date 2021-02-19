@@ -352,6 +352,11 @@ gallery3:
     imgSrc: /images/uploads/285.jpg
     thumbnailSrc: /images/uploads/285-thumbnail.jpg
     imgDesc: Wat Pho Temple Complex
+simplegallery2:
+  - imgTitle: Phad Thai
+    imgDesc: Phad Thai
+    imgSrc: /images/uploads/286.jpg
+    thumbnailSrc: /images/uploads/286-thumbnail.jpg
 ---
 <!--StartFragment-->
 
