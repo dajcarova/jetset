@@ -193,6 +193,50 @@ gallery2:
     imgSrc: /images/uploads/246.jpg
     thumbnailSrc: /images/uploads/246-thumbnail.jpg
     imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/247.jpg
+    thumbnailSrc: /images/uploads/247-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/248.jpg
+    thumbnailSrc: /images/uploads/248-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/249.jpg
+    thumbnailSrc: /images/uploads/249-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/250.jpg
+    thumbnailSrc: /images/uploads/250-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Buddhist School
+    imgSrc: /images/uploads/251.jpg
+    thumbnailSrc: /images/uploads/251-thumbnail.jpg
+    imgDesc: Buddhist School
+  - imgTitle: Wat Arun Temple Complex
+    imgSrc: /images/uploads/252.jpg
+    thumbnailSrc: /images/uploads/252-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/253.jpg
+    thumbnailSrc: /images/uploads/253-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/254.jpg
+    thumbnailSrc: /images/uploads/254-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Wat Arun Temple
+    imgSrc: /images/uploads/255.jpg
+    thumbnailSrc: /images/uploads/255-thumbnail.jpg
+    imgDesc: Wat Arun Temple
+  - imgTitle: Gates to Ordination Hall with statues of Giants
+    imgSrc: /images/uploads/256.jpg
+    thumbnailSrc: /images/uploads/256-thumbnail.jpg
+    imgDesc: Gates to Ordination Hall with statues of Giants
+  - imgTitle: Gold Buddha statues near entrance
+    imgSrc: /images/uploads/257.jpg
+    thumbnailSrc: /images/uploads/257-thumbnail.jpg
+    imgDesc: Gold Buddha statues near entrance
 ---
 <!--StartFragment-->
 
