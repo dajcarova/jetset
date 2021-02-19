@@ -13,6 +13,7 @@ tags:
   - favorite
   - LO
   - solo
+  - food
 simplegallery:
   - imgTitle: On my way to boat pier
     imgSrc: /images/uploads/203.jpg
