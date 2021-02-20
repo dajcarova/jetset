@@ -16,8 +16,8 @@ postcard: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 tags:
   - Asia
   - Malasia
-  - KualaLumpur
-  - cityWalk
+  - Kuala_Lumpur
+  - city_walk
   - solo
   - LO
 simplegallery: []
