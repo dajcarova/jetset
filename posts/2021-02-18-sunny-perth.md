@@ -13,9 +13,9 @@ postcard: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 tags:
   - Australia
   - Perth
-  - cityWalk
+  - city_walk
   - LO
-  - withOtherCrew
+  - with_other_crew
 gallery:
   - imgTitle: Kings Park, Kaarta Gar-up viewpoint
     imgDesc: Kings Park, Kaarta Gar-up viewpoint

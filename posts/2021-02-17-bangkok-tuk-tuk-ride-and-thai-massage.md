@@ -15,7 +15,7 @@ tags:
   - Asia
   - Thailand
   - Bangkok
-  - withOtherCrew
+  - with_other_crew
   - relax
   - food
   - LO

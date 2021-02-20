@@ -14,9 +14,9 @@ tags:
   - Asia
   - Thailand
   - Bangkok
-  - ChristmasAndNewYear
+  - Christmas_and_New_Year
   - LO
-  - withOtherCrew
+  - with_other_crew
 gallery:
   - imgTitle: Flower Market
     imgSrc: /images/uploads/160.jpg

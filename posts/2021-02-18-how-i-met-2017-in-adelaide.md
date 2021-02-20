@@ -14,8 +14,8 @@ postcard: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 tags:
   - Australia
   - Adelaide
-  - ChristmasAndNewYear
-  - cityWalk
+  - Christmas_and_New_Year
+  - city_walk
   - LO
   - solo
 gallery:

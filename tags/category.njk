@@ -1,0 +1,21 @@
+---
+pagination:
+    data: collections
+    size: 1
+    alias: tag
+permalink: "tags/{{ tag }}/"
+layout: layouts/with-aside.njk
+eleventyExcludeFromCollections: true
+---
+<h2>Category: "{{ tag }}"</h2>
+
+{% set tagList = collections[ tag ] %}
+<div class="blog">
+  {% for post in tagList | reverse %}
+  
+  {% include "partials/blog.njk" %}
+  
+  {% endfor %}
+  </div>
+  
+  <button class="button button--loadMore">Load More</button>

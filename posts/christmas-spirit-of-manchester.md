@@ -12,8 +12,8 @@ tags:
   - Europe
   - UK
   - Manchester
-  - cityWalk
-  - ChristmasAndNewYear
+  - city_walk
+  - Christmas_and_New_Year
   - LO
   - solo
 gallery:

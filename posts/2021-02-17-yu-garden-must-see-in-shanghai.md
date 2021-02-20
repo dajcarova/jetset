@@ -16,7 +16,7 @@ tags:
   - China
   - Shanghai
   - LO
-  - withOtherCrew
+  - with_other_crew
 simplegallery: []
 gallery:
   - imgTitle: Yuyuan Market

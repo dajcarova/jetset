@@ -10,9 +10,9 @@ tags:
   - UK
   - Manchester
   - LO
-  - withOtherCrew
-  - ChristmasAndNewYear
-  - cityWalk
+  - with_other_crew
+  - Christmas_and_New_Year
+  - city_walk
 gallery:
   - imgTitle: John Rylands Library
     imgSrc: /images/uploads/104.png

@@ -11,9 +11,9 @@ postcard: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
 tags:
   - Asia
   - Malasia
-  - KualaLumpur
+  - Kuala_Lumpur
   - adventure
-  - withOtherCrew
+  - with_other_crew
   - LO
   - featured
 simplegallery:
