@@ -13,6 +13,7 @@ tags:
   - favorite
   - LO
   - solo
+  - food
 simplegallery:
   - imgTitle: On my way to boat pier
     imgSrc: /images/uploads/203.jpg
@@ -38,6 +39,7 @@ simplegallery:
     imgSrc: /images/uploads/206.jpg
     thumbnailSrc: /images/uploads/206-thumbnail.jpg
     imgDesc: On my way to boat pier
+gallerytitle: Chao Phraya river
 gallery:
   - imgTitle: Ferry across the Chao Phraya river
     imgSrc: /images/uploads/210.jpg
@@ -249,6 +251,113 @@ gallery2:
     imgSrc: /images/uploads/261.jpg
     thumbnailSrc: /images/uploads/261-thumbnail.jpg
     imgDesc: Wat Arun
+gallery3title: Wat Pho - the Temple of the Reclining Buddha
+gallery3text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat.
+gallery3:
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/263.jpg
+    thumbnailSrc: /images/uploads/263-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/262.jpg
+    thumbnailSrc: /images/uploads/262-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/264.jpg
+    thumbnailSrc: /images/uploads/264-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/265.jpg
+    thumbnailSrc: /images/uploads/265-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/266.jpg
+    thumbnailSrc: /images/uploads/266-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: "Reclining Buddha "
+    imgSrc: /images/uploads/267.jpg
+    thumbnailSrc: /images/uploads/267-thumbnail.jpg
+    imgDesc: "Reclining Buddha "
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/268.jpg
+    thumbnailSrc: /images/uploads/268-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/269.jpg
+    thumbnailSrc: /images/uploads/269-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgDesc: Wat Pho Temple Complex
+    imgSrc: /images/uploads/270.jpg
+    thumbnailSrc: /images/uploads/270-thumbnail.jpg
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/271.jpg
+    thumbnailSrc: /images/uploads/271-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/272.jpg
+    thumbnailSrc: /images/uploads/272-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/273.jpg
+    thumbnailSrc: /images/uploads/273-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/274.jpg
+    thumbnailSrc: /images/uploads/274-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/275.jpg
+    thumbnailSrc: /images/uploads/275-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/276.jpg
+    thumbnailSrc: /images/uploads/276-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/277.jpg
+    thumbnailSrc: /images/uploads/277-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/278.jpg
+    thumbnailSrc: /images/uploads/278-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/279.jpg
+    thumbnailSrc: /images/uploads/279-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/280.jpg
+    thumbnailSrc: /images/uploads/280-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: "Phra Si Sanphet Dayarn: Standing Buddha"
+    imgSrc: /images/uploads/281.jpg
+    thumbnailSrc: /images/uploads/281-thumbnail.jpg
+    imgDesc: "Phra Si Sanphet Dayarn: Standing Buddha"
+  - imgTitle: "“rows of Buddhas”, Phra Rabeang section of the temple complex "
+    imgSrc: /images/uploads/282.jpg
+    thumbnailSrc: /images/uploads/282-thumbnail.jpg
+    imgDesc: "“rows of Buddhas”, Phra Rabeang section of the temple complex "
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/283.jpg
+    thumbnailSrc: /images/uploads/283-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/284.jpg
+    thumbnailSrc: /images/uploads/284-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+  - imgTitle: Wat Pho Temple Complex
+    imgSrc: /images/uploads/285.jpg
+    thumbnailSrc: /images/uploads/285-thumbnail.jpg
+    imgDesc: Wat Pho Temple Complex
+simplegallery2:
+  - imgTitle: Phad Thai
+    imgDesc: Phad Thai
+    imgSrc: /images/uploads/286.jpg
+    thumbnailSrc: /images/uploads/286-thumbnail.jpg
 ---
 <!--StartFragment-->
 
