@@ -74,3 +74,673 @@ collections:
           - {label: "Gallery Image", name: "imgSrc", widget: "image"}
           - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
           - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "austria"
+    label: "Austria"
+    folder: "posts/austria"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "croatia"
+    label: "Croatia"
+    folder: "posts/croatia"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "czechia"
+    label: "Czechia"
+    folder: "posts/czechia"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "denmark"
+    label: "Denmark"
+    folder: "posts/denmark"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "finland"
+    label: "Finland"
+    folder: "posts/finland"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "france"
+    label: "France"
+    folder: "posts/france"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "germany"
+    label: "Germany"
+    folder: "posts/germany"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "hungary"
+    label: "Hungary"
+    folder: "posts/hungary"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "ireland"
+    label: "Ireland"
+    folder: "posts/ireland"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+  - name: "italy"
+    label: "Italy"
+    folder: "posts/italy"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Post Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredimage", widget: "image"}
+      - {label: "Post Title", name: "posttitle", widget: "string", optional: true, required: false}
+      - {label: "Post Image", name: "postimg", widget: "image", optional: true, required: false}
+      - {label: "Post Text", name: "postcard", widget: "string", optional: true, required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Simple Gallery"
+        name: "simplegallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string", optional: true, required: false}
+      - {label: "Gallery Text", name: "gallerytext", widget: "string", optional: true, required: false}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery2 Title", name: "gallery2title", widget: "string", optional: true, required: false}
+      - {label: "Gallery2 Text", name: "gallery2text", widget: "string", optional: true, required: false}
+      - label: "Gallery 2"
+        name: "gallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - {label: "Gallery3 Title", name: "gallery3title", widget: "string", optional: true, required: false}
+      - {label: "Gallery3 Text", name: "gallery3text", widget: "string", optional: true, required: false}
+      - label: "Gallery 3"
+        name: "gallery3"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
+      - label: "Simple Gallery 2"
+        name: "simplegallery2"
+        widget: "list"
+        optional: true
+        fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Gallery Thumbnail", name: "thumbnailSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
