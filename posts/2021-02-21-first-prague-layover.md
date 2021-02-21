@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: First Prague Layovers
+title: First ♥ Prague ♥ Layovers
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date: 2017-02-05T23:00:00.000Z
