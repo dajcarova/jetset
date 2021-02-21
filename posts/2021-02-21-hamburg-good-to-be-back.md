@@ -17,6 +17,23 @@ tags:
   - Hamburg
   - city_walk
   - LO
+gallery:
+  - imgTitle: Jungfernstieg
+    imgSrc: /images/uploads/294.jpg
+    thumbnailSrc: /images/uploads/294-thumbnail.jpg
+    imgDesc: Jungfernstieg
+  - imgTitle: Europa Passage
+    imgSrc: /images/uploads/295.jpg
+    thumbnailSrc: /images/uploads/295-thumbnail.jpg
+    imgDesc: Europa Passage
+  - imgTitle: Hamburger Rathaus
+    imgSrc: /images/uploads/296.jpg
+    thumbnailSrc: /images/uploads/296-thumbnail.jpg
+    imgDesc: Hamburger Rathaus
+  - imgTitle: Hamburger Rathaus
+    imgSrc: /images/uploads/297.jpg
+    thumbnailSrc: /images/uploads/297-thumbnail.jpg
+    imgDesc: Hamburger Rathaus
 ---
 <!--StartFragment-->
 
