@@ -9,7 +9,7 @@ tags:
   - Europe
   - Czech_Republic
   - Prague
-  - honey
+  - sweet❤
   - LO
 simplegallery:
   - imgTitle: "Lunch at Na Květnici Restaurant "
