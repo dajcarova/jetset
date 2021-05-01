@@ -1,7 +1,8 @@
 .hero{
   width: 100%;
   height: 61.4rem;
-  background-image: url(/images/hero/spring.jpg);
+  background-color: $c-primery;
+  background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(/images/hero/spring.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
